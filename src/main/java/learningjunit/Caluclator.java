@@ -7,6 +7,7 @@ public class Caluclator {
 
 	}
 	public static int add(int a,int b) {
+		System.out.println("Added from github");
 		return a+b;
 		//added new comment two
 	}
